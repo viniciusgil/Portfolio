@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to left, white -70%, black);
+    font-family: 'Gentium Basic';
+    font-size: 30px;
+}
+h1{
+    color: white;
+}
