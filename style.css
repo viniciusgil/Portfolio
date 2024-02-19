@@ -8,8 +8,8 @@ body {
 
 main {
     background-color: white;
-    border-radius:20px;
-    box-shadow:10px 10px 10px black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
     width: 1200px;
     padding: 10px;
     margin: auto;
@@ -23,4 +23,12 @@ h1{
 }
 h2 {
     text-shadow: 1px 1px 1px red;
+}
+
+img, main{
+    display: inline-block;
+}
+
+img {
+    border-radius: 20px;
 }
