@@ -25,12 +25,12 @@ header img {
     border-radius: 50%;
     border: 5px solid red;
 }
-main img{
-    width: 200px;
+main img {
+    width: 250px;
     height: 250px;
-    border-radius:50%;
-    border: 5px solid red;
-
+    border-radius: 20%;
+    border: 8px solid red;
+    padding: 1px;
 }
 .center{
 text-align: center;
@@ -61,19 +61,19 @@ footer {
     align-items:center;
 }
 
-    footer img{
+footer img{
        width: 400px;
        border-radius: 50px;
        
         
-    }
+}
 
-    nav a:hover{
+nav a:hover{
         color:green;
-    }
+}
 
-    nav img:hover{
+nav img:hover{
         color:green;
-    }
+}
 
 

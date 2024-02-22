@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(to left, white -70%, black);
+    font-family: 'Gentium Basic';
+    font-size: 30px;
+}
+main {
+    background-color: gray;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px black;
+    width: 1200px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+main img {
+        width: 550px;
+        height: 550px;
+        border-radius: 20%;
+        padding: 1px;
+}
+    main a:hover {
+        color: green;
+        
+    }
+
+
