@@ -19,7 +19,8 @@ main img {
         border-radius: 20%;
         padding: 1px;
 }
-    main a:hover {
+
+main a:hover {
         color: green;
         
     }
@@ -36,7 +37,7 @@ main p {
 body a {
     color: red;
     text-decoration: none;
-    padding: 16px;
+    padding: 10px;
     text-shadow: 1px 1px 1px;
     text-align: start;
 }
