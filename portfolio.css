@@ -1,7 +1,7 @@
 body {
     background-image: linear-gradient(to left, white -70%, black);
     font-family: 'Gentium Basic';
-    font-size: 30px;
+    font-size: 40px;
 }
 main {
     background-color: antiquewhite;
@@ -11,6 +11,7 @@ main {
     padding: 20px;
     margin: auto;
     text-align: center;
+ 
 }
 main img {
         width: 550px;
@@ -22,5 +23,22 @@ main img {
         color: green;
         
     }
+main a {
+    font-size: 50px;
+    color: red;
+    text-decoration: none;
+    padding: 20px;
+}
+
+main p {
+    text-align: justify;
+}
+body a {
+    color: red;
+    text-decoration: none;
+    padding: 16px;
+    text-shadow: 1px 1px 1px;
+    text-align: start;
+}
 
 

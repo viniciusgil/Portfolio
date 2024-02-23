@@ -3,7 +3,7 @@
 body {
     background-image: linear-gradient(to left, white -70%, black);
     font-family: 'Gentium Basic';
-    font-size: 30px;
+    font-size: 40px;
 }
 h1{
     color: white;
@@ -15,6 +15,7 @@ a {
     color: red;
     text-decoration: none;
     padding: 16px;
+    text-shadow: 1px 1px 1px;
 }
 nav{
     text-align: center;
@@ -63,8 +64,8 @@ footer {
 
 footer img{
        width: 400px;
-       border-radius: 50px;
-       
+       border-radius: 50px;     
+
         
 }
 

@@ -44,3 +44,15 @@ header {
 video {
     width: 700px;
 }
+a {
+    color: red;
+    text-decoration: none;
+    padding: 16px;
+}
+nav a:hover {
+    color: green;
+}
+
+h3 a:hover {
+    color: green;
+}
