@@ -41,5 +41,21 @@ body a {
     text-shadow: 1px 1px 1px;
     text-align: start;
 }
+video {
+    width: 800px;
+    border-radius: 3%;
+}
+
+nav h3{
+    text-align: center;
+    color: antiquewhite;
+}
+nav a:hover {
+    color: green
+}
+a {
+    text-align: center;
+}
+
 
 
