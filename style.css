@@ -52,3 +52,11 @@ nav a:hover {
 h3 a:hover {
     color: green;
 }
+p a {
+    font-size: 40px;
+}
+
+p a:hover {
+    color: green;
+  
+}
